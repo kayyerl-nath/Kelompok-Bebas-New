@@ -1,10 +1,10 @@
 from tkinter import *
 import random
 
-GAME_WIDTH = 700
-GAME_HEIGHT = 700
+GAME_WIDTH = 500
+GAME_HEIGHT = 500
 SPEED = 150
-SPACE_SIZE = 50
+SPACE_SIZE = 25
 BODY_PARTS = 3
 SNAKE_COLOR = "#e5de00"
 FOOD_COLOR = "#de0a26"
