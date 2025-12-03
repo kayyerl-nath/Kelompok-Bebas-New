@@ -6,10 +6,21 @@ SNEIK adalah permainan sederhana berbasis Python yang mengadaptasi game klasik S
 Melalui game ini, pemain mengendalikan seekor “ular” yang bergerak di dalam arena, memakan makanan, bertambah panjang, dan harus menghindari tabrakan. SNEIK dirancang sederhana agar mudah dipahami, diubah, dan dikembangkan.
 
 ## ⭐ Fitur Utama
+1. Kontrol permainan menggunakan keyboard (atas, bawah, kiri, kanan).
+
+2. Ular bertambah panjang setiap kali memakan makanan.
+
+3. Skor bertambah otomatis saat makanan dimakan.
+
+4. Game over saat ular menabrak dinding atau tubuhnya sendiri.
+
+5. Tampilan berbasis terminal/console sehingga ringan dan mudah dipelajari.
+
+6. Struktur kode sederhana untuk dipelajari siswa/pemula.
 
 ## 🛠️ Panduan Instalasi
 1. Install [Python](https://www.python.org/downloads/release/python-3140/)
-1. Clone Repository
+2. Clone Repository
 ```bash
 git clone https://github.com/kayyerl-nath/Kelompok-Bebas-SNEIK.gitcd Kelompok-Bebas-SNEIK
 ``` 
